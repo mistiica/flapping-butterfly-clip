@@ -1,4 +1,4 @@
-# flapping-butterfly-clip
+
 # 🦋 Flapping Butterfly Clip
 
 A wearable robotic butterfly hair clip with mechanically
